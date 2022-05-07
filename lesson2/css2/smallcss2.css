@@ -3,6 +3,8 @@ body {
     text-align: center;
     max-width: 1000px;
     margin: 0 auto;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header {
@@ -13,6 +15,8 @@ header {
     color: white;
     align-items: center;
     justify-items: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 main {
@@ -25,10 +29,14 @@ h1 {
     position: relative;
     text-align: center;
     color: white;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
     text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 div {
@@ -38,16 +46,19 @@ div {
     margin-top: 1em;
     margin-bottom: 1em;
     text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-    font-family: 'Josefin Sans', Verdana, sans-serif;
     padding: 3em;
     background-color: black;
     color: white;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     border: 1.5px solid darkcyan;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 img {
@@ -69,6 +80,8 @@ footer {
     justify-items: center;
     border-radius: 230px;
     color: white;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #lastupdated {
